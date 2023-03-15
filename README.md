@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá! Bem vindo ao meu perfil no Github 👋
+## Eu me chamo Matheus da Cruz Ferrucio mas pode me chamar de "da Cruz"! 😎
 
 <!--
 **matheusferrucio/Matheusferrucio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📚 Estou fazendo faculdade de análise e desenvolvimento de sistemas na FATEC de Araçatuba.
+- 🤩 Estou me aprofundando em Javascript.
+- 💻 No momento não possuo um trabalho, mas estou a procura de uma oportunidade 😁
++ Conhecimentos +
+
+<img src"https://fontawesome.com/icons/html5?s=&f=brands" />
