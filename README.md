@@ -6,9 +6,9 @@
 ## Sobre mim
 
 - 📚 Estudante de ADS na FATEC de Araçatuba
-- 🤩 Me apronfundando em JavaScript
-- 💻 Desempregado no momento
-- 👾 Dev fron-end
+- 🤩 Me apronfundando em PHP
+- 💻 Trabalhando, mas não na área
+- 
 <br>
 <br>
 
@@ -21,18 +21,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/php" width="60" height="60"/>
   </div>
 </center>
-
-<br>
-<br>
-
-## Minhas estatísticas
-<div align="center">
-<a href="https://github.com/Matheusferrucio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusferrucio&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusferrucio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
   
 <br>
 <br>
